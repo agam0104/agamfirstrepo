@@ -1,3 +1,3 @@
 # agamfirstrepo
 
-start buildingg the project on cloud
+start working on the new project
